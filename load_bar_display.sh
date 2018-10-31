@@ -1,3 +1,5 @@
+#!/bin/bash
+
 load_B(){ #ARG $total $object $msg $bar_lenght(Default:15)
 
     local total=$1; local object=$2; local msg=$3
