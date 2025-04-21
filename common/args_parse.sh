@@ -5,9 +5,9 @@ args_parse() {
     #   ARG_DESCRIPTION: Description of script
     #   ARG_OPTS (List with '#' separator for item):
     #     1: Argument (separator If short and long, Ex: --long|-l
-    #     2: Description o f argument
+    #     2: Description of argument
     #     3: Variable name: declared and usable in script (Ex: my_variable)
-    #     4: Argument t y p e :
+    #     4: Argument type:
     #       - n: named argument : --arg {value}
     #       - b: boolean argument: --arg
     #       - p: positional argument: <arg>
